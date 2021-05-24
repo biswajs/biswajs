@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on Nodejs projects
-- 📫 Rech me via Discord: Biswa#7373
+- 📫 Reach me via Discord: Biswa#7373
 
 <!---
 biswajs/biswajs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
